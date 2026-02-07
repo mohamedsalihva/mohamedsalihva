@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me<br><br>- 🔭 I’m currently working on a MERN stack Job Portal web app with recruiter, admin, and ATS scoring features<br>- 👯 I’m looking to collaborate on full‑stack MERN projects, SaaS ideas, and real‑world products<br>- 🤝 I’m looking for help with deployment, scaling, and performance optimization<br>- 🌱 I’m currently MCA student learning advanced React patterns, system design, and cloud deployment<br>- 💬 Ask me about MERN stack, REST APIs, MongoDB, authentication, and UI design<br>- ⚡ Fun fact: I’m a footballer who loves building products and scoring goals<br>
+### About Me<br><br>- 🔭 I’m currently working on a MERN stack AI Consistency Tracker web app with recruiter, admin, and ATS scoring features<br>- 👯 I’m looking to collaborate on full‑stack MERN projects, SaaS ideas, and real‑world products<br>- 🤝 I’m looking for help with deployment, scaling, and performance optimization<br>- 🌱 I’m currently MCA student learning advanced React patterns, system design, and cloud deployment<br>- 💬 Ask me about MERN stack, REST APIs, MongoDB, authentication, and UI design<br>- ⚡ Fun fact: I’m a footballer who loves building products and scoring goals<br>
 
 
 ## 🌐 Socials:
